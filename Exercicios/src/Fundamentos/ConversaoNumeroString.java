@@ -12,6 +12,5 @@ public class ConversaoNumeroString {
 		
 		System.out.println(("" + num1).length());
 		System.out.println(("" + num2).length());
-
 	}
 }

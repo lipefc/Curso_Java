@@ -17,6 +17,5 @@ public class ConversaoTipoPrimitivoNumerico {
 		double e = 1.123456789; //Explícita (CAST)
 		int f = (int) e;
 		System.out.println(f);
-
 	}
 }

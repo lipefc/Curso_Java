@@ -15,6 +15,5 @@ public class Temperatura {
 		C = (F - conversao1) * conversao2;
 		
 		System.out.println("Temperatura = " + C + "°c");
-
 	}
 }
