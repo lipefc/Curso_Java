@@ -1,6 +1,6 @@
-package Fundamentos;
+package operadores;
 
-public class DesafioAritmeticos2 {
+public class DesafioAritmeticos {
 
 	public static void main(String[] args) {
 
